@@ -607,6 +607,6 @@ CREATE TABLE `users` (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES ('1', 'alejandro', '81dc9bdb52d04dc20036dbd8313ed055', '', '1', 'Alejandro Alanis');
-INSERT INTO `users` VALUES ('40', 'trabajador1', '81dc9bdb52d04dc20036dbd8313ed055', '', '2', 'Nombre del Trabajador');
-INSERT INTO `users` VALUES ('41', 'edgar', '81dc9bdb52d04dc20036dbd8313ed055', '', '1', 'Edgar Marquez');
+
+INSERT INTO `users` VALUES ('40', 'trabajador1', '', '', '2', 'Nombre del Trabajador');
+INSERT INTO `users` VALUES ('41', 'edgar', '', '', '1', 'Edgar Marquez');
